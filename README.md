@@ -1,2 +1,2 @@
 # DikiPratama13.github.io
-Belajar bikin web resume
+Selamat datang di web resume Diki Pratama
